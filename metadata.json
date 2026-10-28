@@ -1,0 +1,6 @@
+{
+  "name": "알파 스톡 에이전트 - RVOL·A급 재료·VWAP 타점 분석기",
+  "description": "RVOL 2.0 이상, 장전 갭 +3%~+8%, A급 모멘텀 촉매 및 VWAP 1:2 손익비 타점 기반 미국 주식 모니터링 & AI 매수 전략 에이전트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
